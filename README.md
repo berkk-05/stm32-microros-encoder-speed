@@ -35,5 +35,3 @@ ROS 2 ortamına yayınlanması.
 - Optik enkoder (20 delik)
 - DC motor
 
-## İletişim
-micro-ROS UART (USART6)
