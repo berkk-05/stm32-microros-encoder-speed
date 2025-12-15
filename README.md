@@ -30,7 +30,7 @@ Sistem, robotik uygulamalarda tekerlek hızı geri bildirimi ve odometri altyap�
 | Mesaj Tipi                  | `std_msgs/Float32`| ROS 2 uyumlu |
 
 ## Teknik Doküman
-- [Enkoder hız hesaplama ve filtreleme teknik notu](Docs/Encoder_Teknik_Not.pdf)
+- [Enkoder hız hesaplama ve filtreleme teknik notu](Docs/tur_not.pdf)
 
 ## Sistem Testi
 
@@ -70,7 +70,7 @@ The system is designed for wheel speed feedback in robotic applications such as 
 | Message Type                | `std_msgs/Float32` | ROS 2 compatible |
 
 ## Technical Documentation
-- [Encoder speed calculation and filtering technical note](Docs/Encoder_Teknik_Not.pdf)
+- [Encoder speed calculation and filtering technical note](Docs/en_not.pdf)
 
 ## System Test
 
